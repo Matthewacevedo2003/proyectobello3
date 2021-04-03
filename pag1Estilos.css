@@ -1,0 +1,21 @@
+h1{
+    font-weight: bold;
+    color: rgb(255, 0, 255);
+}
+
+h2{
+    font-weight: bold;
+    color:rgb(255, 118, 68) ;
+
+}
+
+.mensaje{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(57, 124, 250);
+    text-align:justify;
+  
+
+
+
+}

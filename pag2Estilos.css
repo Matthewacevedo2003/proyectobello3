@@ -1,0 +1,23 @@
+h1{
+    font-weight: bold;
+    color:rgb(69, 241, 26) ;
+}
+
+h2{
+   font-weight: bold;
+}
+
+.textoMotivate{
+    text-align:justify;
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(250, 76, 76);
+
+}
+
+.textoEmprende{
+    text-align:justify;
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(49, 175, 253);
+}

@@ -1,0 +1,33 @@
+.parrafo{
+    font-size: 22px;
+    color: rgb(7, 67, 230);
+    text-align:justify;
+
+}
+
+.contacto{
+    font-size: 26px;
+    color: rgb(146, 137, 137);
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.fechaInicio{
+    font-size: 26px;
+    color: rgb(146, 137, 137);
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.originado{
+    font-size: 30px;
+    color: rgb(146, 137, 137);
+    text-align: center;
+    font-family: 'Merienda One', cursive;
+}
+
+footer{
+    background-color: rgb(255, 251, 0);
+}
+
+
