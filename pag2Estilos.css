@@ -1,6 +1,6 @@
 h1{
     font-weight: bold;
-    color:rgb(69, 241, 26) ;
+    color:rgb(21, 255, 0);
 }
 
 h2{
@@ -11,13 +11,12 @@ h2{
     text-align:justify;
     font-style: italic;
     font-size: 20px;
-    color: rgb(250, 76, 76);
-
+    color: rgb(138, 51, 251);
 }
 
 .textoEmprende{
     text-align:justify;
     font-style: italic;
     font-size: 20px;
-    color: rgb(49, 175, 253);
+    color: rgb(138, 51, 251);
 }
