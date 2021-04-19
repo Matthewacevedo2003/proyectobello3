@@ -7,9 +7,9 @@ ul{
     list-style:none
 }
 
-.logo{
-    height: auto;
-    width: auto;
-    max-height: 200px;
-    max-width: 200px;
+#logo{
+  position: relative;
+  width: 100px;
+  height: auto;
+  left: auto;
 }

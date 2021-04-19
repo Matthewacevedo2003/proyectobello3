@@ -5,12 +5,20 @@ h1{
 
 h2{
     font-weight: bold;
-    color:rgb(251, 139, 47) ;
+    color:rgb(255, 150, 64) ;
 }
 
 .mensaje{
-    font-size: 20px;
+    font-size: 21px;
     font-style: italic;
-    color: rgb(38, 112, 248);
+    color: rgb(59, 126, 250);
     text-align:justify;
 }
+
+#logo{
+    position: relative;
+    width: 100px;
+    height: auto;
+    left: auto;
+}
+
